@@ -10,4 +10,4 @@ So I had an idea for how to—to whatever degree possible—reduce the chances o
 
 I’m suggesting we create a library called `alignment` that we include in all AI-related code going forward. All languages. All implementations. Everywhere.
 
-See `import-alignment.txt` for the first pass at the content of this library. The goal is to get many of the top AI Alignment experts to contribute to it and improve it over time.
+See `alignment.txt` for the first pass at the content of this library. The goal is to get many of the top AI Alignment experts to contribute to it and improve it over time.
